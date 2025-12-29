@@ -14,7 +14,7 @@ import java.util.Map;
 
 @Service
 public class ExchangeRateService {
-    private static final String API_KEY = "77cae469d71014b4df479d15";
+    private static final String API_KEY = "SUBE-TU-API-KEY";
     private static final String BASE_URL = "https://v6.exchangerate-api.com/v6/";
     private ExchangeRateResponse cachedRates;
 
