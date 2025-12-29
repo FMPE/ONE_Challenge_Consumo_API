@@ -1,6 +1,7 @@
 package com.alura;
 
 import java.util.Scanner;
+import com.alura.service.ExchangeRateService;
 
 public class Main {
     public static void main(String[] args) {

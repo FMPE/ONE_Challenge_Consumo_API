@@ -1,3 +1,8 @@
-com\alura\ExchangeRateService.class
-com\alura\Main.class
+com\alura\config\CorsConfig.class
+com\alura\dto\ConversionRequest.class
+com\alura\Application.class
 com\alura\ExchangeRateResponse.class
+com\alura\dto\ConversionResponse.class
+com\alura\service\ExchangeRateService.class
+com\alura\Main.class
+com\alura\controller\CurrencyController.class
