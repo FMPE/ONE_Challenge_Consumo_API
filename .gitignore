@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+*/node_modules/
+
+# Maven
+target/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment
+.env
+.DS_Store
